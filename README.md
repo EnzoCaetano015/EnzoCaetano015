@@ -37,7 +37,7 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software. Atua
 - 🌎 **Idiomas:** Inglês intermediário com certificação internacional (PEIC)
 - 💻 **Tecnologias:**
   - **Frontend:** React, JavaScript, TypeScript
-  - **Backend:** PHP, Python, Dart
+  - **Backend:** PHP, Python, Node
   - **Mobile:** Flutter
   - **Banco de Dados:** SQL
 - 📌 **Áreas de Interesse:** Desenvolvimento Web, Mobile, Inteligência Artificial e Acessibilidade Digital
