@@ -54,7 +54,7 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software. Atua
 
 📸 **Instagram:** [@caetanokskj](https://www.instagram.com/caetanokskj/)  
 💼 **LinkedIn:** [Enzo Caetano](https://www.linkedin.com/in/enzo-caetano-peracio-rodrigues-814736290)  
-🌍 **Portfólio:** [caetanodev.vercel.app](https://caetanodev.vercel.app)
+🌍 **Portfólio:** [caetanodev.vercel.app](https://www.caetanodev.com/)
 
 ---
 
