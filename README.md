@@ -1,6 +1,6 @@
 ## 👋 Olá, sou Enzo Caetano! Bem-vindo ao meu perfil no GitHub!
 
-Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software. Atualmente, estou no meu último ano do Ensino Médio Técnico em Informática para Web e sempre buscando novos desafios e aprendizados. 🚀
+Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software. Atualmente, estou cursando a minha primeira graduação em Inteligência artifical e sempre buscando novos desafios e aprendizados. 🚀
 
 ---
 
