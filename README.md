@@ -32,8 +32,8 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software. Atua
 
 ### 🛠️ Sobre mim:
 
-- 🎂 **Idade:** 17 anos
-- 🎓 **Formação:** Último ano do Ensino Médio Técnico em Informática para Web
+- 🎂 **Idade:** 18 anos
+- 🎓 **Formação:** Cursando IA na Fiap
 - 🌎 **Idiomas:** Inglês intermediário com certificação internacional (PEIC)
 - 💻 **Tecnologias:**
   - **Frontend:** React, JavaScript, TypeScript
