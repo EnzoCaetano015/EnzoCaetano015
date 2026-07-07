@@ -103,34 +103,6 @@ Atualmente curso **Tecnólogo em Inteligência Artificial pela FIAP** e uso meus
 
 ---
 
-## 🧱 Minha forma de construir
-
-```mermaid
-flowchart LR
-    A[🧠 IA aplicada] --> B[Agentes e automações]
-    A --> C[Dashboards inteligentes]
-    D[⚙️ Backend] --> E[Microserviços]
-    D --> F[APIs seguras]
-    G[🎨 Frontend] --> H[UX clara]
-    G --> I[Produtos reais]
-    J[📚 FIAP] --> K[Dados, ML e IoT]
-
-    B --> Z([Sistemas úteis])
-    C --> Z
-    E --> Z
-    F --> Z
-    H --> Z
-    I --> Z
-    K --> Z
-
-    classDef goal fill:#DB2777,stroke:#F9A8D4,color:#FFFFFF;
-    classDef node fill:#111827,stroke:#475569,color:#E5E7EB;
-    class Z goal;
-    class A,B,C,D,E,F,G,H,I,J,K node;
-```
-
----
-
 ## 🌎 Idiomas
 
 <div align="center">
