@@ -34,29 +34,6 @@
 
 ## ⚡ Sobre mim
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🧠 Penso como produto
-Antes de codar, eu entendo o problema, o usuário, o fluxo e o impacto da solução.
-
-</td>
-<td width="33%" align="center">
-
-### 🧩 Construo ponta a ponta
-Crio interfaces, APIs, integrações, banco de dados e automações com foco em clareza e manutenção.
-
-</td>
-<td width="33%" align="center">
-
-### 🚀 Entrego com evolução
-Gosto de transformar ideias em projetos apresentáveis, documentados e prontos para crescer.
-
-</td>
-</tr>
-</table>
-
 Sou um **Desenvolvedor Full Stack.** em evolução constante, com experiência prática em **React, TypeScript, .NET, Python, PHP/Laravel, SQL, APIs, automações e Inteligência Artificial aplicada**.
 
 Atualmente curso **Tecnólogo em Inteligência Artificial pela FIAP** e uso meus projetos para unir desenvolvimento web, dados, IA, integrações e resolução de problemas reais.
