@@ -110,38 +110,6 @@ Atualmente curso **Tecnólogo em Inteligência Artificial pela FIAP** e uso meus
 
 ---
 
-## 🛰️ Radar técnico atual
-
-```mermaid
-mindmap
-  root((Enzo Caetano))
-    Full Stack
-      React
-      TypeScript
-      .NET
-      Laravel
-      APIs REST
-    Inteligência Artificial
-      Python
-      Machine Learning
-      NLP
-      Dados
-      Agentes
-    Produto
-      UX
-      Dashboards
-      Automações
-      Integrações
-    Engenharia
-      SQL
-      Docker
-      Microserviços
-      Git
-      Cloud
-```
-
----
-
 ## 📊 Métricas do cockpit
 
 <div align="center">
