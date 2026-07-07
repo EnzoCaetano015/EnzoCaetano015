@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1D4ED8,70:7C3AED,100:DB2777&height=220&section=header&text=Enzo%20Caetano&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20Jr.%20%7C%20IA%20%7C%20APIs%20%7C%20Automa%C3%A7%C3%A3o&descSize=18&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1D4ED8,70:7C3AED,100:DB2777&height=220&section=header&text=Enzo%20Caetano&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20%7C%20IA%20%7C%20APIs%20%7C%20Automa%C3%A7%C3%A3o&descSize=18&descAlignY=58" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Transformo+problemas+reais+em+sistemas+funcionais.;Frontend+claro.+Backend+seguro.+Dados+bem+tratados.;React+%2B+TypeScript+%2B+.NET+%2B+Python+%2B+IA.;Construindo+produtos+com+prop%C3%B3sito%2C+c%C3%B3digo+e+criatividade." alt="Typing SVG" />
 
@@ -219,27 +219,6 @@ flowchart LR
 |---|---:|---|
 | 🇧🇷 Português | Nativo | Comunicação técnica, documentação e apresentações |
 | 🇺🇸 Inglês | B2 | Certificação PEIC, leitura técnica e comunicação profissional |
-
-</div>
-
----
-
-## 📫 Onde me encontrar
-
-<div align="center">
-
-<a href="https://www.caetanodev.com/">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/enzo-caetano-814736290/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:peracioenzo@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/caetanokskj/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 
 </div>
 
