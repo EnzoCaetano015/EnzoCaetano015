@@ -197,11 +197,7 @@ flowchart LR
 
 </div>
 
----
-
 <div align="center">
-
-### `while (aprendendo) { construir(); melhorar(); compartilhar(); }`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8A2BE2,45:1F6FEB,100:0D1117&section=footer" width="100%" />
 
