@@ -23,7 +23,7 @@
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/FULL%20STACK-Developer%20Jr.-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FULL%20STACK-Web%20Developer.-2563EB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FIAP-Intelig%C3%AAncia%20Artificial-DB2777?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FOCO-APIs%20%7C%20IA%20%7C%20Automa%C3%A7%C3%A3o-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Ribeir%C3%A3o%20Pires-SP-10B981?style=for-the-badge" />
