@@ -63,31 +63,6 @@ Atualmente curso **Tecnólogo em Inteligência Artificial pela FIAP** e uso meus
 
 ---
 
-## 🧭 Meu mapa de construção
-
-```mermaid
-flowchart LR
-    A([💡 Ideia]) --> B[🔎 Entendimento do problema]
-    B --> C[🧱 Modelagem do fluxo]
-    C --> D[🎨 Frontend claro]
-    D --> E[🔐 Backend seguro]
-    E --> F[🗄️ Banco organizado]
-    F --> G[🔌 API bem definida]
-    G --> H[🧪 Testes e ajustes]
-    H --> I[📚 Documentação]
-    I --> J([🚀 Projeto pronto para uso])
-
-    classDef start fill:#1D4ED8,stroke:#60A5FA,color:#FFFFFF;
-    classDef process fill:#111827,stroke:#475569,color:#E5E7EB;
-    classDef finish fill:#7C3AED,stroke:#C084FC,color:#FFFFFF;
-
-    class A start;
-    class B,C,D,E,F,G,H,I process;
-    class J finish;
-```
-
----
-
 ## 🧭 Minha stack em modo mapa
 
 <table>
