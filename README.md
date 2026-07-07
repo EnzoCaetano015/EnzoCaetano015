@@ -16,9 +16,6 @@
 <a href="mailto:peracioenzo@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-peracioenzo%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
 </a>
-<a href="https://github.com/EnzoCaetano015">
-  <img src="https://img.shields.io/badge/GITHUB-EnzoCaetano015-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-</a>
 
 <br />
 <br />
