@@ -37,7 +37,7 @@ Atualmente curso **Tecnólogo em Inteligência Artificial pela FIAP** e uso meus
 
 ---
 
-## 🧭 Minha stack em modo mapa
+## 🧭 Minhas stack's
 
 <table>
   <tr>
@@ -64,22 +64,6 @@ Atualmente curso **Tecnólogo em Inteligência Artificial pela FIAP** e uso meus
     </td>
   </tr>
 </table>
-
----
-
-## 📊 Métricas do cockpit
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EnzoCaetano015&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoCaetano015&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br />
-<br />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=EnzoCaetano015&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=8B5CF6&point=FFFFFF&area=true" alt="Contribution Graph" />
-
-</div>
 
 ---
 
