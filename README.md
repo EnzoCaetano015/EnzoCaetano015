@@ -27,57 +27,6 @@
 
 </div>
 
----
-
-## ⚡ Sobre mim
-
-Sou um **Desenvolvedor Full Stack.** em evolução constante, com experiência prática em **React, TypeScript, .NET, Python, PHP/Laravel, SQL, APIs, automações e Inteligência Artificial aplicada**.
-
-Atualmente curso **Tecnólogo em Inteligência Artificial pela FIAP** e uso meus projetos para unir desenvolvimento web, dados, IA, integrações e resolução de problemas reais.
-
----
-
-## 🧭 Minhas stack's
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🎨 Frontend</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,next,ts,js,vite,tailwind,materialui,html,css" />
-      </p>
-      <p>Interfaces modernas, componentização, consumo de APIs, rotas, formulários, estados, dashboards e experiência de usuário.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ Backend</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,php,laravel,python,fastapi" />
-      </p>
-      <p>APIs REST, autenticação, regras de negócio, integrações, microserviços, jobs, validações e arquitetura por camadas.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧠 Dados & IA</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,r,sklearn,mysql,sqlite,postgres" />
-      </p>
-      <p>Análise de dados, modelos preditivos, NLP, dashboards, automações, machine learning e projetos acadêmicos aplicados.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌎 Idiomas
-
-<div align="center">
-
-| Idioma | Nível | Contexto |
-|---|---:|---|
-| 🇧🇷 Português | Nativo | Comunicação técnica, documentação e apresentações |
-| 🇺🇸 Inglês | B2 | Certificação PEIC, leitura técnica e comunicação profissional |
-
-</div>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8A2BE2,45:1F6FEB,100:0D1117&section=footer" width="100%" />
